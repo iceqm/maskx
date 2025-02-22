@@ -644,3 +644,7 @@ DOMAIN-SUFFIX,vsean.net
 DOMAIN-SUFFIX,soso365.com
 DOMAIN-SUFFIX,yjys02.com
 DOMAIN-SUFFIX,ubrand.com
+
+# movie
+DOMAIN-KEYWORD,jitutv
+DOMAIN-KEYWORD,soupian
