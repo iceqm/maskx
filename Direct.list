@@ -8,7 +8,6 @@ DOMAIN-SUFFIX,hao123.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
-DOMAIN-KEYWORD,pcbeta
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
@@ -35,6 +34,11 @@ DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
+
+
+# pcbeta
+DOMAIN-SUFFIX,pcbeta.com
+DOMAIN-SUFFIX,bbs.pcbeta.com
 
 
 # 58
