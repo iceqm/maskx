@@ -657,3 +657,8 @@ DOMAIN-KEYWORD,soupian
 # 飞牛
 DOMAIN-SUFFIX,fnnas.com
 DOMAIN-KEYWORD,fnnas
+
+# 蓝奏云
+DOMAIN-SUFFIX,developer-oss.lanrar.com
+DOMAIN-SUFFIX,lanzout.com
+DOMAIN-KEYWORD,lanzou
