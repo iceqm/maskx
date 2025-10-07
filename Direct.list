@@ -671,4 +671,7 @@ DOMAIN-SUFFIX,bizhihui.com
 
 # 今日热榜
 DOMAIN-SUFFIX,rebang.today
+
+# pve源
+DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,haowallpaper.com
