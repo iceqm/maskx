@@ -24,6 +24,19 @@ IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
+# 导航网站
+DOMAIN-SUFFIX,pncao.com
+DOMAIN-SUFFIX,aixunni.com
+DOMAIN-SUFFIX,baozangku.com
+DOMAIN-SUFFIX,kulayu.com
+DOMAIN-SUFFIX,tentod.com
+DOMAIN-SUFFIX,szsyw.cn
+DOMAIN-SUFFIX,hotppter.com
+DOMAIN-KEYWORD,xydh
+
+# 网盘
+DOMAIN-SUFFIX,vpan123.com
+
 
 # 360
 DOMAIN-SUFFIX,360.com
