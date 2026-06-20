@@ -15,7 +15,6 @@ IP-CIDR,219.146.1.66/32,no-resolve
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
-IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,219.147.1.66/32,no-resolve
 IP-CIDR,119.29.29.29/32,no-resolve
 IP-CIDR,223.5.5.5/32,no-resolve
@@ -112,7 +111,6 @@ DOMAIN-SUFFIX,bcebos.com
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,bdurl.net
-DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,hao123img.com
 DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
@@ -615,12 +613,9 @@ DOMAIN-SUFFIX,zhuihd.com
 DOMAIN-SUFFIX,123yx.com
 DOMAIN-SUFFIX,123957.com
 DOMAIN-SUFFIX,cjjd19.com
-DOMAIN-SUFFIX,baidu.com
-DOMAIN-SUFFIX,bbs.pcbeta.com
 DOMAIN-SUFFIX,ai.ludashi.com
 DOMAIN-SUFFIX,playnas.com
 DOMAIN-SUFFIX,lanzoul.com
-DOMAIN-SUFFIX,alibaba.com
 
 # chongbuluo
 DOMAIN-SUFFIX,chongbuluo.com
@@ -639,8 +634,11 @@ DOMAIN-SUFFIX,gaoimg.com
 DOMAIN-SUFFIX,mp.toutiao.com
 DOMAIN,mp.toutiao.com
 DOMAIN,soso365.com
+DOMAIN-SUFFIX,soso365.com
 DOMAIN,yjys02.com
+DOMAIN-SUFFIX,yjys02.com
 DOMAIN,ubrand.com
+DOMAIN-SUFFIX,ubrand.com
 DOMAIN,123yx.com
 DOMAIN-SUFFIX,588ku.com
 DOMAIN,588ku.com
@@ -648,9 +646,8 @@ DOMAIN,bookmarkearth.com
 DOMAIN-SUFFIX,bookmarkearth.com
 DOMAIN,lzijin.vip
 DOMAIN-SUFFIX,lzijin.vip.com
-DOMAIN,ziyuanpi.com
-DOMAIN-SUFFIX,toutiao.com
 DOMAIN,toutiao.com
+DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,ysepan.com
 DOMAIN,ysepan.com
 DOMAIN,netbian.com
@@ -664,9 +661,6 @@ DOMAIN-SUFFIX,gimy.tv
 DOMAIN-SUFFIX,xiaobaiyun.site
 DOMAIN-SUFFIX,getquicker.net
 DOMAIN-SUFFIX,vsean.net
-DOMAIN-SUFFIX,soso365.com
-DOMAIN-SUFFIX,yjys02.com
-DOMAIN-SUFFIX,ubrand.com
 
 # movie
 DOMAIN-KEYWORD,jitutv
@@ -739,5 +733,3 @@ DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,id6.me
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,open.e.189.cn
-
-
