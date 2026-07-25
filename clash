@@ -68,18 +68,18 @@ custom_proxy_group=🛡️ 隐私防护`select`[]REJECT`[]DIRECT`[]自动选择`
 custom_proxy_group=🐟 漏网之鱼`select`[]DIRECT`[]自动选择`[]🚀 节点选择`[]手动切换`[]香港自动`[]日本自动`[]加坡自动`[]美国故转`[]台湾节点`[]韩国节点`[]其他地区`[]高速自动`[]便宜节点
 
 ;3、节点组
-custom_proxy_group= 手动切换`select`.*
-custom_proxy_group= 自动选择`url-test`.*`http://www.gstatic.com/generate_204`300,,50
-custom_proxy_group= 台湾节点`select`(🇹🇼台湾|台湾|台|新北|彰化|🇹🇼|TW|Taiwan)
-custom_proxy_group= 韩国节点`select`(🇰🇷韩国|韩国|🇰🇷|KR|Korea|KOR|首尔|韩|韓)
-custom_proxy_group= 香港自动`url-test`(广港|香港|HK|Hong Kong|HongKong)`http://www.gstatic.com/generate_204`180,5,100
-custom_proxy_group= 日本自动`url-test`(日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan)`http://www.gstatic.com/generate_204`180,5,100
-custom_proxy_group= 加坡自动`url-test`(新加坡|坡|狮城|SG|Singapore)`http://www.gstatic.com/generate_204`180,5,100
-custom_proxy_group= 美国故转`fallback`(?=.*(🇺🇸|美|波特兰|洛杉矶|圣何塞|洛杉矶|阿什本|United States))^((?!(家宽|游戏|剩余|流量|0.5|0.5倍|0.5x|2.0|2倍|2x|3.0|3倍|3x|4.0|4倍|4x|5.0|5倍|5x)).)*$`http://www.gstatic.com/generate_204`300,,50
-custom_proxy_group= 美国自动`url-test`(广美|美|US|纽约|波特兰|达拉斯|俄勒|凤凰城|费利蒙|硅谷|拉斯|洛杉|圣何塞|圣克拉|西雅|芝加|🇺🇸|United States)`http://www.gstatic.com/generate_204`180,5,100
-custom_proxy_group= 高速自动`url-test`(?=.*(hy|香港|HK|Hong Kong|🇭🇰|HongKong|日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan))^((?!(深港|家宽|游戏|剩余|流量|0.5|0.5倍|0.5x|2.0|2倍|2x|3.0|3倍|3x|4.0|4倍|4x|5.0|5倍|5x)).)*$`http://www.gstatic.com/generate_204`300,,50
-custom_proxy_group= 便宜节点`select`(?=.*(0.01|0.01倍|0.1|0.1倍|0.5|0.5倍|0.5x))
-custom_proxy_group= 其他地区`select`(^(?!.*(🇮🇳|印度|🇦🇪|迪拜|香港|HK|Hong Kong|🇭🇰|HongKong|日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan|新加坡|坡|狮城|SG|Singapore)).*)
+custom_proxy_group=手动切换`select`.*
+custom_proxy_group=自动选择`url-test`.*`http://www.gstatic.com/generate_204`300,,50
+custom_proxy_group=台湾节点`select`(🇹🇼台湾|台湾|台|新北|彰化|🇹🇼|TW|Taiwan)
+custom_proxy_group=韩国节点`select`(🇰🇷韩国|韩国|🇰🇷|KR|Korea|KOR|首尔|韩|韓)
+custom_proxy_group=香港自动`url-test`(广港|香港|HK|Hong Kong|HongKong)`http://www.gstatic.com/generate_204`180,5,100
+custom_proxy_group=日本自动`url-test`(日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan)`http://www.gstatic.com/generate_204`180,5,100
+custom_proxy_group=加坡自动`url-test`(新加坡|坡|狮城|SG|Singapore)`http://www.gstatic.com/generate_204`180,5,100
+custom_proxy_group=美国故转`fallback`(?=.*(🇺🇸|美|波特兰|洛杉矶|圣何塞|洛杉矶|阿什本|United States))^((?!(家宽|游戏|剩余|流量|0.5|0.5倍|0.5x|2.0|2倍|2x|3.0|3倍|3x|4.0|4倍|4x|5.0|5倍|5x)).)*$`http://www.gstatic.com/generate_204`300,,50
+custom_proxy_group=美国自动`url-test`(广美|美|US|纽约|波特兰|达拉斯|俄勒|凤凰城|费利蒙|硅谷|拉斯|洛杉|圣何塞|圣克拉|西雅|芝加|🇺🇸|United States)`http://www.gstatic.com/generate_204`180,5,100
+custom_proxy_group=高速自动`url-test`(?=.*(hy|香港|HK|Hong Kong|🇭🇰|HongKong|日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan))^((?!(深港|家宽|游戏|剩余|流量|0.5|0.5倍|0.5x|2.0|2倍|2x|3.0|3倍|3x|4.0|4倍|4x|5.0|5倍|5x)).)*$`http://www.gstatic.com/generate_204`300,,50
+custom_proxy_group=便宜节点`select`(?=.*(0.01|0.01倍|0.1|0.1倍|0.5|0.5倍|0.5x))
+custom_proxy_group=其他地区`select`(^(?!.*(🇮🇳|印度|🇦🇪|迪拜|香港|HK|Hong Kong|🇭🇰|HongKong|日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan|新加坡|坡|狮城|SG|Singapore)).*)
 
 ;启用自定义规则集
 
