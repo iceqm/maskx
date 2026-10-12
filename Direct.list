@@ -2,13 +2,13 @@
 
 # MyList
 # 域名后缀匹配
-time.windows.com
-lanzov.com
-hao123.com
+DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,hao123.com
 
 # 国内DNS
-dns.alidns.com
-doh.pub
+DOMAIN-SUFFIX,dns.alidns.com
+DOMAIN-SUFFIX,doh.pub
 IP-CIDR,219.147.1.66/32,no-resolve
 IP-CIDR,119.29.29.29/32,no-resolve
 IP-CIDR,223.5.5.5/32,no-resolve
@@ -18,44 +18,44 @@ IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
 # 导航网站
-pncao.com
-aixunni.com
-baozangku.com
-kulayu.com
-tentod.com
-szsyw.cn
-hotppter.com
+DOMAIN-SUFFIX,pncao.com
+DOMAIN-SUFFIX,aixunni.com
+DOMAIN-SUFFIX,baozangku.com
+DOMAIN-SUFFIX,kulayu.com
+DOMAIN-SUFFIX,tentod.com
+DOMAIN-SUFFIX,szsyw.cn
+DOMAIN-SUFFIX,hotppter.com
 DOMAIN-KEYWORD,xydh
-ysa.cc
-baozangdh.com
-mvcat.com
+DOMAIN-SUFFIX,ysa.cc
+DOMAIN-SUFFIX,baozangdh.com
+DOMAIN-SUFFIX,mvcat.com
 
 
 # 网盘
-vpan123.com
-91panta.cn
-91panta.com
+DOMAIN-SUFFIX,vpan123.com
+DOMAIN-SUFFIX,91panta.cn
+DOMAIN-SUFFIX,91panta.com
 DOMAIN-KEYWORD,91panta
 
 
 # 360
-360.com
-360kuai.com
-360safe.com
-dhrest.com
-qhres.com
-qhstatic.com
-qhupdate.com
-so.com
+DOMAIN-SUFFIX,360.com
+DOMAIN-SUFFIX,360kuai.com
+DOMAIN-SUFFIX,360safe.com
+DOMAIN-SUFFIX,dhrest.com
+DOMAIN-SUFFIX,qhres.com
+DOMAIN-SUFFIX,qhstatic.com
+DOMAIN-SUFFIX,qhupdate.com
+DOMAIN-SUFFIX,so.com
 
 
 # pcbeta
-pcbeta.com
-bbs.pcbeta.com
+DOMAIN-SUFFIX,pcbeta.com
+DOMAIN-SUFFIX,bbs.pcbeta.com
 
 
 # 58
-58.com
+DOMAIN-SUFFIX,58.com
 
 # Alibaba
 1688.com
